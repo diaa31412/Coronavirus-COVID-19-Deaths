@@ -8,5 +8,9 @@ the I uploaded data to SQLSERVER 2019 and make
 exploring data  by sql 
 
 
+Dashboard by Tableau 
+https://public.tableau.com/app/profile/diyaa4751/viz/CovidDeathsDashboard_16985918279340/Dashboard1?publish=yes
+
+
 
 
